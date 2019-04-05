@@ -1,0 +1,8 @@
+*.csproj
+*.meta
+NI/Library/
+*.sln
+NI/ProjectSettings/
+NI/Temp/
+NI/Packages/manifest.json
+NI/Logs/
